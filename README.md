@@ -1,10 +1,10 @@
-# Project 7 - *Name of App Here*
+# Project 7 - Taskit
 
-Submitted by: **Your Name Here**
+Submitted by: Andrew Lam
 
-**Name of your app** is an app that ... [TODO] 
+Taskit is an app that allows users to create tasks linked to a checklist and calendar. 
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
